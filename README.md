@@ -10,7 +10,7 @@
   <a href="https://www.wenmasteri.com"><img src="https://img.shields.io/badge/Portfolio-225B48?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://13host.in"><img src="https://img.shields.io/badge/13host.in-E6B7A4?style=for-the-badge&logo=serverfault&logoColor=black"/></a>
   <a href="https://wa.me/917491997872"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=helperedit789-spec&style=for-the-badge&color=225B48&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=deepusingh-dev&style=for-the-badge&color=225B48&label=Profile+Views"/>
 </p>
 
 ---
@@ -81,7 +81,7 @@ const deepu = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=helperedit789-spec&hide_border=true&background=00000000&ring=225B48&fire=E6B7A4&currStreakLabel=225B48" />
+  <img src="https://streak-stats.demolab.com?user=deepusingh-dev&hide_border=true&background=00000000&ring=225B48&fire=E6B7A4&currStreakLabel=225B48" />
 </p>
 
 ## 🤝 Let's Build Something
